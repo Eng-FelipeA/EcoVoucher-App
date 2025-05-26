@@ -77,7 +77,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 
 <div align="center">
     
-![Timeline](https://github.com/marcusvsbarros/readMeTest/blob/main/timeline.jpg)
+![Timeline](Timeline.png)
 </div>
 
 
