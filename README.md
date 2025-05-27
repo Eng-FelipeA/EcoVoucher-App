@@ -78,7 +78,6 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 <div align="center">
     
 ![Timeline](Timeline.png)
-</div>
 ### **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
@@ -97,6 +96,8 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 ### **Deploy/Versionamento**
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
+</div>
+
 
 
 
